@@ -1,8 +1,13 @@
-# Next.js Frontend Template
+# World Leaders Wiki – Frontend
 
-Frontend template built with **Next.js**, designed to be used as a base for modern and scalable web applications.
+Frontend application for **World Leaders Wiki**, a platform that centralizes structured information about political, social, and historical leaders around the world.
 
-This project is designed with clean structure and best practices in mind, allowing easy integration with backend APIs and fast iteration during development.
+This project is designed with scalability and clean architecture in mind, allowing easy integration with the backend API.
+
+## Backend
+
+The backend API for this project is available here:  
+https://github.com/amorindev/world-leaders-wiki-back
 
 ## Landing 
 <img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/96e925ca-ff28-47a6-b8b8-b92d3345b2c4" />
@@ -21,12 +26,6 @@ This project is designed with clean structure and best practices in mind, allowi
 
 ## Verify account
 <img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/b63682b7-4c4d-4774-be2c-cb3290dac307" />
-
-
-## Backend
-
-The backend template designed to work with this frontend is available here:
-- [https://github.com/amorindev/go-tmpl](https://github.com/amorindev/world-leaders-wiki-back)
 
 ## Architecture
 
